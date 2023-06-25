@@ -5,8 +5,7 @@ Welcome to Be Safe! Be Safe is a small android application developed for my Andr
 # How to use this? 🤔
 If your want to try this app on your android phone, follow these steps: 
 
-1. Clone this repository in your local environment by the following command:
-```git clone https://gitlab.com/natalijastojanovska/be-safe.git```
+1. Clone this repository in your local environment
 
 2. Create your own Firebase project <br>
 ```https://console.firebase.google.com/```
